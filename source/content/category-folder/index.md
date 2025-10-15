@@ -1,1 +1,1 @@
-This is a category?
+Hello! This is a category?
